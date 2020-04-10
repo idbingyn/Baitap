@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Bai1;
+package huuduc_59130364_baitapjava.Bài1;
 
 /**
  *
@@ -25,6 +25,5 @@ public static void main(String[] args) {
     nv2.setTongGioLam(150);
     System.out.println(nv1.getThongTin());
     System.out.println(nv2.getThongTin());
-} 
+}     
 }
-

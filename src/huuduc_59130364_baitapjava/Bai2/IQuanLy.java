@@ -6,7 +6,7 @@
 package huuduc_59130364_baitapjava.Bai2;
 
 
-import Bai1.NhanVien;
+import huuduc_59130364_baitapjava.Bài1.NhanVien;
 /**
  *
  * @author Pistol
