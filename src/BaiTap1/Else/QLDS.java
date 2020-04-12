@@ -12,7 +12,7 @@ import java.util.ArrayList;
  *
  * @author Pistol
  */
-public class QLDS extends IQLDS{
+public class QLDS implements IQLDS{
     private ArrayList<CaNhan> ds = new ArrayList<>();
 
     public ArrayList<CaNhan> getDs() {

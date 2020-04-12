@@ -12,8 +12,8 @@ import java.util.ArrayList;
  *
  * @author Pistol
  */
-public abstract class IQLDS {
-    public abstract int them(CaNhan caNhan);
-    public abstract int xoa(String ten);
-    public abstract void inDS(ArrayList<CaNhan> ds);    
+public interface IQLDS {
+    public int them(CaNhan caNhan);
+    public int xoa(String ten);
+    public void inDS(ArrayList<CaNhan> ds);    
 }
